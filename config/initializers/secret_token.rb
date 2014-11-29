@@ -1,0 +1,1 @@
+Communityengine::Application.config.secret_key_base = 'ee69a945333512ca5a973b29c563be256a4fe7209f4d4a2b0a2985c72570824343af2893151dbf699f480453fb0ca7237bd3ebc7a6148141f932e7c342db175f'
