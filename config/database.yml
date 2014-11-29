@@ -6,11 +6,10 @@
 #
 default: &default
   adapter: postgresql
-  encoding: unicode
-  username: satya
-  password: 
   pool: 5
   timeout: 5000
+  username: postgres
+  password: postgres
 
 development:
   <<: *default
