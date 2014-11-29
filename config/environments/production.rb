@@ -2,7 +2,6 @@ Communityengine::Application.configure do
   # Settings specified here will take precedence over those in config/application.rb.
 
   # Code is not reloaded between requests.
-  mattr_accessor :dump_schema_after_migration
   config.cache_classes = true
 
   # Eager load code on boot. This eager loads most of Rails and
